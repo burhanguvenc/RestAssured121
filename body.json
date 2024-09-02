@@ -1,0 +1,10 @@
+ {
+      "id": "4",
+      "name": "Scott",
+      "location": "France",
+      "courses": [
+        "C",
+        "C++"
+      ],
+      "phone": "5632547854"
+    }
